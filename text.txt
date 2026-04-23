@@ -1,0 +1,5 @@
+SEND_KEY	ON
+SEND_KEYS	syutsunou
+SEND_KEY	Space
+SEND_KEY	Space
+SHOW

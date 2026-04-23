@@ -1,0 +1,4 @@
+SEND_KEY	ON
+SEND_KEYS	saizeria
+SEND_KEY	Space
+SHOW
